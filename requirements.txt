@@ -1,0 +1,4 @@
+numpy==2.2.3
+Pillow==11.1.0
+pycdlib==1.16.0
+opencv-python

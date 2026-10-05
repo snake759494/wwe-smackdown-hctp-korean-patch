@@ -1,0 +1,23 @@
+{
+  "version": "v1.0",
+  "game": "WWE SmackDown! Here Comes the Pain (USA) SLUS-20787",
+  "original": {
+    "size": 4525228032,
+    "md5": "014ae3d46510de9f6b01ce9a6e436a82",
+    "sha256": "690ca52a5fd8418d2f4e2ed7e3a49df7613ddbd88ac68e7928acd0e5514dc087"
+  },
+  "patched": {
+    "size": 4525228032,
+    "md5": "cc6d0f85ceae1eb2138351b081466e39",
+    "sha256": "f2e876528379532e1b7de4224b6290bfd11973703ebf3021654a3063f6887de7"
+  },
+  "xdelta": {
+    "name": "WWE_SmackDown_HCTP_KO_v1.0.xdelta",
+    "size": 42679131,
+    "sha256": "af56e4c515d9b0f4e5ec634090e5edffb5fdb8ffe904075b32ce4f7420a4e7a7"
+  },
+  "verification": [
+    "xdelta 복원 결과 ISO SHA-256 일치",
+    "저장소만으로 깨끗한 폴더에서 prepare+build 재빌드, 결과 ISO 바이트 동일"
+  ]
+}
